@@ -43,3 +43,14 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 ## 📫 Connect with me
 
 [📧 Email Me](mailto:arxn.af@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/muhammadarkanafif) | [📸 Instagram](https://instagram.com/arxoc)
+
+---
+
+---
+
+## 🧠 Dev & Mindset Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Dev Quote" />
+</p>
+
