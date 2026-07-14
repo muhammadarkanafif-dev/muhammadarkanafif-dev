@@ -34,8 +34,9 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 
 ## 📈 GitHub Stats
 
-![Muhammad Arkan Afif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadarkanafif-dev&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarkanafif-dev&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadarkanafif-dev&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
