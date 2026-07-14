@@ -42,7 +42,7 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 
 ## 📫 Connect with me
 
-[📧 Email Me](mailto:arxn.af@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/muhammadarkanafif) | [📸 Instagram](https://instagram.com/arxoc)
+[📧 Email Me](mailto:arxn.af@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/muhammadarkanafif) | [📸 Instagram](https://instagram.com/arxoc_)
 
 ---
 
