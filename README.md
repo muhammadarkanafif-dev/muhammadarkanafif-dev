@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Arkan Afif 👋
+# Hi there, I'm Muhammad Arkan Afif 
 
 A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate about learning full-stack web and mobile development. 
 
@@ -49,7 +49,7 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
   <a href="https://linkedin.com/in/muhammadarkanafif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/arxoc" target="_blank">
+  <a href="https://instagram.com/arxoc_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
