@@ -1,7 +1,4 @@
-
-
-<!--
-**muhammadarkanafif-dev/muhammadarkanafif-dev** is a ✨ _special_ ✨ repositor# Hi there, I'm Muhammad Arkan Afif 👋
+# Hi there, I'm Muhammad Arkan Afif 👋
 
 A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate about learning full-stack web and mobile development. 
 
@@ -12,7 +9,8 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 - 📚 Constantly learning and improving my programming and problem-solving skills
 - 🌱 Passionate about building useful and meaningful software
 - 🎯 **My Goal:** To steadily improve my coding skills, deeply master my tech stack, and build useful applications that people actually need.
--⚡ Fun fact: Besides exploring the world of programming, I'm also a football enthusiast who enjoys analyzing match strategies (Hala Madrid!) ⚪⚽
+- ⚡ **Fun fact:** Besides exploring the world of programming, I'm also a football enthusiast who enjoys analyzing match strategies (Hala Madrid!) ⚪⚽
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -43,16 +41,4 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 
 ## 📫 Connect with me
 
-[📧 Email Me](mailto:arxn.af@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/muhammadarkanafif) | [📸 Instagram](https://instagram.com/arxoc)y because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[📧 Email Me](mailto:arxn.af@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/muhammadarkanafif) | [📸 Instagram](https://instagram.com/arxoc)
