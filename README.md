@@ -58,6 +58,7 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 
 ## 🧠 Dev & Mindset Quote
 
-> "Walking on water and developing software from a specification are easy if both are frozen."
-> 
-> — **Edward V. Berard**
+<p align="center">
+  <i>"Walking on water and developing software from a specification are easy if both are frozen."</i><br>
+  <strong>— Edward V. Berard</strong>
+</p>
