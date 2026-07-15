@@ -56,10 +56,16 @@ A Software Engineering (RPL) student at SMK Taruna Bhakti who is passionate abou
 
 ---
 
-## 🧠 Dev & Mindset Quote
 
-```bash
-$ systemctl get --mindset
 
-💬 "Walking on water and developing software from a specification are easy if both are frozen."
-👤 — Edward V. Berard
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">💡 <b>DEV PHILOSOPHY</b></p>
+      <p align="center">
+        <i>"Walking on water and developing software from a specification are easy if both are frozen."</i>
+      </p>
+      <p align="center"><b>— Edward V. Berard</b></p>
+    </td>
+  </tr>
+</table>
